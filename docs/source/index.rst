@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+THABET là một trong những nhà cái trực tuyến hàng đầu châu Á với hơn 10 triệu thành viên
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`THABET <https://thabeting.com/>`_ là một trong những nhà cái trực tuyến hàng đầu châu Á với hơn 10 triệu thành viên và hơn 10 năm kinh nghiệm trong ngành. Nổi bật với giao diện sắc nét và tính năng cập nhật liên tục, THABET mang đến trải nghiệm cá cược hiện đại và an toàn cho người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+THABET cung cấp đa dạng các trò chơi cá cược như xóc đĩa, tài xỉu, Sicbo, bóng đá, bóng rổ, và esport, cùng với hệ thống giao dịch nhanh chóng, CSKH chuyên nghiệp và bảo mật thông tin cao. THABET còn hợp tác với hơn 200 đối tác để mang đến nhiều lựa chọn giải trí hấp dẫn như live casino, đá gà trực tuyến, bắn cá đổi thưởng, game slot, xổ số và cá cược thể thao.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 164/16 Lê Đình Thám, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0958400258. 
 
-.. toctree::
+Email: info@thabeting.com. 
 
-   usage
-   api
+Website: `https://thabeting.com/ <https://thabeting.com/>`_
+
+#thabet, #thabet_the_thao, #nha_cai_thabet, #thabet_casino
